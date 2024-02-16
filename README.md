@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BobaElFett
 - 👀 I’m interested in Python and Java
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: Conctact my adress fmontblanch2@gmail.com
+- 📫 How to reach me: Conctact my adress fmontblanch@gmail.com
 
 <!---
 BobaElFett/BobaElFett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
